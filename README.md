@@ -7,33 +7,33 @@ This project demonstrates practical Python skills including functions, loops, di
 
 Features
 
-Enter monthly income and multiple expenses with categories.
+- Enter monthly income and multiple expenses with categories.
 
-Calculate total expenses, remaining balance, and category percentages.
+- Calculate total expenses, remaining balance, and category percentages.
 
-Optional notes for each month (e.g., “Vacation month”).
+- Optional notes for each month (e.g., “Vacation month”).
 
-Expenses displayed from highest to lowest spending for easy insight.
+- Expenses displayed from highest to lowest spending for easy insight.
 
-Save and load budgets using budget_history.txt.
+- Save and load budgets using budget_history.txt.
 
-Mini dashboard to view all previous months at a glance.
+- Mini dashboard to view all previous months at a glance.
 
-Menu-based navigation: New Budget, View Dashboard, Exit.
+- Menu-based navigation: New Budget, View Dashboard, Exit.
 
 Python Concepts Used
 
-Functions & Modular Code – enter_budget() and view_dashboard()
+- Functions & Modular Code – enter_budget() and view_dashboard()
 
-Lists & Dictionaries – Track multiple expenses and categories
+- Lists & Dictionaries – Track multiple expenses and categories
 
-Loops & Input Validation – Ensures valid income, expense, and date inputs
+- Loops & Input Validation – Ensures valid income, expense, and date inputs
 
-File Handling – Persistent history saved to a text file
+- File Handling – Persistent history saved to a text file
 
-Sorting & Formatting – Clean console output using f-strings
+- Sorting & Formatting – Clean console output using f-strings
 
-Regex – Validate date input in MM/DD/YYYY format
+- Regex – Validate date input in MM/DD/YYYY format
 
 How to Run
 Using Terminal / PowerShell (Recommended)
